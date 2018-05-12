@@ -1,0 +1,84 @@
+_repo: All-Around-the-Moon_16457
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Roth, Edward
+    birthdate: 1826
+    deathdate: 1911
+    gutenberg_agent_id: '6725'
+    url: http://www.gutenberg.org/2009/agents/6725
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Verne, Jules
+    aliases:
+    - Verne, Jules Gabriël
+    - Verne, Jules Gabriel
+    - Verne, Júlio
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Júlio_Verne
+    - http://en.wikipedia.org/wiki/Jules_Verne
+    - http://fr.wikipedia.org/wiki/Jules_Verne
+description: "Around the Moon (French: Autour de la Lune, 1870), Jules Verne's sequel\
+  \ to From the Earth to the Moon, is a science fiction novel which continues the\
+  \ trip to the moon which was only partially described in the previous novel. It\
+  \ was later combined with From the Earth to the Moon to create A Trip to the Moon\
+  \ and Around It. From the Earth to the Moon and Around the Moon served as the basis\
+  \ for the film A Trip to the Moon.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2005-08-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16457'
+  wikidata: Q1327411
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Space flight to the moon -- Fiction'
+- !lcsh 'Manned space flight -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Space ships -- Fiction'
+- !lcsh 'Moon -- Fiction'
+title: All Around the Moon
+url: http://www.gutenberg.org/ebooks/16457
+wikipedia:
+- https://pl.wikisource.org/wiki/Na_oko%C5%82o_Ksi%C4%99%C5%BCyca
+- https://fa.wikipedia.org/wiki/%D8%AF%D8%B1_%D9%85%D8%AF%D8%A7%D8%B1_%D9%85%D8%A7%D9%87
+- https://cs.wikisource.org/wiki/Cesta_kolem_m%C4%9Bs%C3%ADce
+- https://lt.wikipedia.org/wiki/Aplink_M%C4%97nul%C4%AF
+- https://commons.wikimedia.org/wiki/Category:Around_the_Moon
+- https://uk.wikipedia.org/wiki/%D0%9D%D0%B0%D0%B2%D0%BA%D0%BE%D0%BB%D0%BE_%D0%9C%D1%96%D1%81%D1%8F%D1%86%D1%8F
+- https://el.wikipedia.org/wiki/%CE%93%CF%8D%CF%81%CF%89_%CE%B1%CF%80%CF%8C_%CF%84%CE%B7_%CE%A3%CE%B5%CE%BB%CE%AE%CE%BD%CE%B7
+- https://fr.wikisource.org/wiki/Autour_de_la_Lune
+- https://sv.wikipedia.org/wiki/M%C3%A5nen_runt
+- https://pt.wikipedia.org/wiki/Autour_de_la_Lune
+- https://es.wikipedia.org/wiki/Alrededor_de_la_Luna
+- https://sk.wikipedia.org/wiki/Okolo_mesiaca
+- https://en.wikipedia.org/wiki/Around_the_Moon
+- https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%BA%D1%80%D1%83%D0%B3_%D0%9B%D1%83%D0%BD%D1%8B
+- https://ro.wikipedia.org/wiki/%C3%8En_jurul_Lunii
+- https://fr.wikipedia.org/wiki/Autour_de_la_Lune
+- https://pl.wikipedia.org/wiki/Wok%C3%B3%C5%82_Ksi%C4%99%C5%BCyca
+- https://hu.wikipedia.org/wiki/Utaz%C3%A1s_a_Hold_k%C3%B6r%C3%BCl
+- https://es.wikisource.org/wiki/Alrededor_de_la_Luna
+- https://ru.wikiquote.org/wiki/%D0%92%D0%BE%D0%BA%D1%80%D1%83%D0%B3_%D0%9B%D1%83%D0%BD%D1%8B
+- https://da.wikipedia.org/wiki/Rundt_om_m%C3%A5nen
+- https://ka.wikipedia.org/wiki/%E1%83%9B%E1%83%97%E1%83%95%E1%83%90%E1%83%A0%E1%83%98%E1%83%A1_%E1%83%92%E1%83%90%E1%83%A0%E1%83%A8%E1%83%94%E1%83%9B%E1%83%9D
+- https://ar.wikipedia.org/wiki/%D8%AD%D9%88%D9%84_%D8%A7%D9%84%D9%82%D9%85%D8%B1_(%D8%B1%D9%88%D8%A7%D9%8A%D8%A9)
+- https://nl.wikipedia.org/wiki/De_reis_om_de_maan
+- https://cs.wikipedia.org/wiki/Okolo_M%C4%9Bs%C3%ADce
+- https://de.wikipedia.org/wiki/Reise_um_den_Mond
+- https://en.wikisource.org/wiki/Around_the_Moon
+- https://hy.wikipedia.org/wiki/%D4%BC%D5%B8%D6%82%D5%BD%D5%B6%D5%AB_%D5%B7%D5%B8%D6%82%D6%80%D5%BB%D5%A8
+- https://it.wikipedia.org/wiki/Intorno_alla_Luna
+- https://ca.wikipedia.org/wiki/Al_voltant_de_la_Lluna
+- https://he.wikipedia.org/wiki/%D7%A1%D7%91%D7%99%D7%91_%D7%94%D7%99%D7%A8%D7%97
